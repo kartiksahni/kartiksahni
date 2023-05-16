@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+# I'm Kartik Sahni
+
+Welcome to my GitHub repository! This is where I share my projects, code snippets, and contributions to Data Science & ML.
+
 <!--
 **kartiksahni/kartiksahni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
